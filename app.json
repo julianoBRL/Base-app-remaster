@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EniacPI2022",
+    "slug": "EniacPI2022",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EniacPI2022"
+}
